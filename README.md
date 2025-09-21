@@ -3,11 +3,11 @@
 *Based on Maven Analytics Data Drill #3: Rolling Up, Looking Back*
 
 <div align="center">
-  <a href="./Calculating-Monthly-Changes-in-Aggregate-Data.pdf">
+  <a href="./Calculating_ Monthly_Changes.pdf">
     <img width="440" alt="image" alt="MOM" src="https://github.com/user-attachments/assets/fbc62589-7621-451a-9545-40563f68ac53" />
   </a>
   <br>
-  📎 <a href="./Calculating-Monthly-Changes-in-Aggregate-Data.pdf">Complete documentation and analysis</a>
+  📎 <a href="./Calculating_ Monthly_Changes.pdf">Complete documentation and analysis</a>
 </div>
 
 ## 🎯 Challenge
@@ -41,9 +41,9 @@ Month-over-month analysis appears in retail performance tracking, seasonal trend
   <br><br>
 
 ## 📂 Files
-- [`coffee_shop_sales.csv`](./coffee_shop_sales.csv) - Raw transaction data (149,000 records)
-- [`Calculating-Monthly-Changes-in-Aggregate-Data.pdf`](./Calculating-Monthly-Changes-in-Aggregate-Data.pdf) - Complete documentation and insights
-- [`mom_analysis.pbix`](./mom_analysis.pbix) - Power BI interactive dashboard
+- [`coffee_shop_sales.csv`](https://maven-datasets.s3.us-east-1.amazonaws.com/Data+Drills/coffee_shop_sales.csv) - Raw transaction data (149,000 records)
+- [`Calculating Monthly_Changes.pdf`](./Calculating_Monthly_Changes.pdf) - Complete documentation and insights
+- [`Month Over Month.pbix`](./Month%20Over%20Month.pbix) - Power BI interactive dashboard
   <br><br>
 
 ## 🔗 Resources
