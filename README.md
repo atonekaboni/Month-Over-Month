@@ -25,8 +25,8 @@ Coffee shop transaction data containing 149,000 individual sales records that ne
 - **Python:** Pandas groupby with .diff() for efficient calculations  
 - **MySQL:** LAG() window function in CTE for database-native processing
 - **Power BI:** DAX DATEADD + CALCULATE for interactive dashboards
-  <br><br>
-  
+
+  <img width="440" alt="Power BI" src="https://github.com/user-attachments/assets/10644170-4567-460e-a03c-e0b0ccbe6e07" />
 ## 🎯 Key Insights
 | Tool | Best For | Why |
 |------|----------|-----|
