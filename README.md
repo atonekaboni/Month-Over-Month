@@ -3,11 +3,11 @@
 *Based on Maven Analytics Data Drill #3: Rolling Up, Looking Back*
 
 <div align="center">
-  <a href="./Calculating_ Monthly_Changes.pdf">
+  <a href="./Calculating_Monthly_Changes.pdf">
     <img width="440" alt="image" alt="MOM" src="https://github.com/user-attachments/assets/fbc62589-7621-451a-9545-40563f68ac53" />
   </a>
   <br>
-  📎 <a href="./Calculating_ Monthly_Changes.pdf">Complete documentation and analysis</a>
+  📎 <a href="./Calculating_Monthly_Changes.pdf">Complete documentation and analysis</a>
 </div>
 
 ## 🎯 Challenge
